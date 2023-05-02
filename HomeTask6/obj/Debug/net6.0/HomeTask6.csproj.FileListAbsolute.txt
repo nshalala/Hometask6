@@ -1,0 +1,15 @@
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\bin\Debug\net6.0\HomeTask6.exe
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\bin\Debug\net6.0\HomeTask6.deps.json
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\bin\Debug\net6.0\HomeTask6.runtimeconfig.json
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\bin\Debug\net6.0\HomeTask6.dll
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\bin\Debug\net6.0\HomeTask6.pdb
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\obj\Debug\net6.0\HomeTask6.csproj.AssemblyReference.cache
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\obj\Debug\net6.0\HomeTask6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\obj\Debug\net6.0\HomeTask6.AssemblyInfoInputs.cache
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\obj\Debug\net6.0\HomeTask6.AssemblyInfo.cs
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\obj\Debug\net6.0\HomeTask6.csproj.CoreCompileInputs.cache
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\obj\Debug\net6.0\HomeTask6.dll
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\obj\Debug\net6.0\refint\HomeTask6.dll
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\obj\Debug\net6.0\HomeTask6.pdb
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\obj\Debug\net6.0\HomeTask6.genruntimeconfig.cache
+C:\Users\nshal\Desktop\full-stack\HomeTask6\HomeTask6\obj\Debug\net6.0\ref\HomeTask6.dll
